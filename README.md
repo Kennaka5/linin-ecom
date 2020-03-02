@@ -1,3 +1,7 @@
+linin-ecom is a sample e-commerce app to help experiment with different front end Implementations for a better user experience.
+
+This App demonstrates a fullstack react application for a professional e-comm company.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
